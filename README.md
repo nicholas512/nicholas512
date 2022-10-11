@@ -1,4 +1,4 @@
-### Hi there 👋
+I make things to support permafrost data interoperability and simulation
 
 <!--
 **nicholas512/nicholas512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Some projects I work on:
+
+### Teaspoon 🥄
+A python library for ground temperature data. A library of readers to handle datalogger files, model output, and permafrost databases. 
+* 📄 : Published in JOSS [10.21105/joss.04704](https://doi.org/10.21105/joss.04704)
+* 💾: [Hosted on Gitlab](https://gitlab.com/permafrostnet/teaspoon)
