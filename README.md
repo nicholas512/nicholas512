@@ -25,4 +25,4 @@ A python library for ground temperature data. A library of readers to handle dat
 ### Globsim 🌎
 A python library for turning atmospheric reanalyses into point-scale datasets appropriate for land surface models
 * 📄 : Published in GMD [10.5194/gmd-12-4661-2019](https://doi.org/10.5194/gmd-12-4661-2019)
-* 💾: [Hosted on Github](https://gitlab.com/geocryology/globsim)
+* 💾: [Hosted on Github](https://github.com/geocryology/globsim)
