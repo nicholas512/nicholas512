@@ -26,3 +26,7 @@ A python library for ground temperature data. A library of readers to handle dat
 A python library for turning atmospheric reanalyses into point-scale datasets appropriate for land surface models
 * 📄 : Published in GMD [10.5194/gmd-12-4661-2019](https://doi.org/10.5194/gmd-12-4661-2019)
 * 💾: [Hosted on Github](https://github.com/geocryology/globsim)
+
+### TempCF
+A GUI for semi-automated ground temperature data cleaning. Detect suspicous observations using a library of filters and remove spurious data. 
+* 💾: [Hosted on Gitlab](https://gitlab.com/permafrostnet/permafrost-tempcf)
